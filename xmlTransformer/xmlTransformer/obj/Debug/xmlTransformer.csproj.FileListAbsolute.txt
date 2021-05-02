@@ -1,0 +1,13 @@
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\bin\Debug\xmlTransformer.exe.config
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\bin\Debug\xmlTransformer.exe
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\bin\Debug\xmlTransformer.pdb
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.csprojAssemblyReference.cache
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.Filtriranje.resources
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.Form1.resources
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.PregledPodataka.resources
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.Unos.resources
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.exe
+C:\Users\Korisnik\source\repos\xmlTransformer\xmlTransformer\obj\Debug\xmlTransformer.pdb
